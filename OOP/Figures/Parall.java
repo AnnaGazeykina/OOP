@@ -17,7 +17,7 @@ public class Parall extends Rectangle{
 	public double p(){
 		return 4*(this.a+this.b+this.h);
 	}
-	//+новый метод
+	//+новый метод 
 	public double v(){
 		return this.a*this.b*this.h;
 	}
